@@ -1,6 +1,6 @@
 {
   "name": "ebarymi_test_project",
-  "version": "0.1.0-SNAPSHOT",
+  "version": "0.1.0",
   "license": "some",
   "angular-cli": {},
   "scripts": {
@@ -17,7 +17,7 @@
     "e2e": "protractor"
   },
   "publishConfig": {
-    "registry" : "http://localhost:4873"
+    "registry": "http://localhost:4873"
   },
   "dependencies": {
     "zone.js": "^0.6.23"
